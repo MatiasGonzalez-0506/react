@@ -1,0 +1,30 @@
+1 ¿Cuál es la diferencia entre una función declarativa y una función de expresión?
+    -En las funciones declarativas, utilizamos la palabra reservada function al inicio para poder declarar la función
+    -En la expresión de función, la declaración se inicia con la palabra reservada var, let o const, donde se generará una variable 
+     que guardará una función anónima.
+
+2- que es react?
+    Una biblioteca de JavaScript para construir interfaces de usuario
+
+
+4- que es un componente de react?
+    Los componentes permiten separar estas interfaces en piezas independientes y reutilizables.
+
+5- ¿Cuál es la convención al momento de nombrar nuestros componentes en React?
+    los componentes se escriben con mayuscula
+
+6- ¿Para qué sirven las props?
+    Las props son la colección de datos que un componente recibe del contenedor padre, y que pueden usarse para definir 
+    los elementos de React que retornará el componente.
+
+7- debemos importar en app.js y llamarlo con <Tienda />
+
+extensiones que pueden usar 
+
+Extensiones VSC
+
+ES7 React/Redux/React-Native/JS snippets
+generate-react-component
+React/Redux/react-router Snippets
+Reactjs code snippets
+Simple React Snippets
